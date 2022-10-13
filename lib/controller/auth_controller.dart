@@ -7,7 +7,7 @@ import 'package:firebase_storage/firebase_storage.dart';
 import 'package:get/get.dart';
 import 'package:image_picker/image_picker.dart';
 import 'package:tiktok_clone/model/user.dart';
-import 'package:tiktok_clone/view/screens/auth/home_screen.dart';
+import 'package:tiktok_clone/view/screens/home_screen.dart';
 import 'package:tiktok_clone/view/screens/auth/login_screen.dart';
 
 class AuthController extends GetxController {
